@@ -3,7 +3,9 @@ This repo lists all the projects I have done in 100 days of coding in python cou
 
 
 ## Treasure Island
-[<img src="https://user-images.githubusercontent.com/98851253/154304693-a3aa3a5a-e8f3-46b8-bcea-6f0884aad99c.gif" height="400px" width = "300px">](https://github.com/NishitaErvantikar9/Python-Projects/tree/main/1.Band%20Name%20generator)
+![Treasure](https://user-images.githubusercontent.com/120945994/233770926-36b94eca-c91b-42b1-8f7a-5738ce27830c.gif)
+
+
 
 ## Tip Calculator
 [<img src="https://user-images.githubusercontent.com/120945994/232575684-c1055b16-0754-41cd-8d49-a61e06ac25dc.gif" >](https://github.com/NishitaErvantikar9/Python-Projects/tree/main/1.Band%20Name%20generator)
