@@ -1,6 +1,16 @@
 # Python Projects
 This repo lists all the projects I have done in 100 days of coding in python course by Angela Yu,  along with my extra projects done during the journey. It was an amazing course! Consider it taking. But if you are in a rush or something, you can checkout my notes on Python day 1- day 100 : [Nish Notes](). If handwritten notes isn't for you then, jump into my repo : [Python Bootcamp](https://github.com/NishitaErvantikar9/Python-Pro-Bootcamp) that contains every step you need to know to do these projects. Click on the gifs to reach the project code.
 
+
+## Snake Game Part 2
+![day21](https://user-images.githubusercontent.com/98851253/154784140-a3e09fa8-1c0e-4f66-8329-1c1322d802df.gif)
+
+## Snake Game Part 1
+![day20](https://user-images.githubusercontent.com/98851253/154784028-531ee1a9-af23-4642-9a5d-36d9e2627c8e.gif)
+
+## Turtle Race
+![day19](https://user-images.githubusercontent.com/98851253/154783894-1c7cfc07-0752-402d-800f-afbed8fdea9a.gif)
+
 ## The Hirst Painting Project
 ![day18](https://user-images.githubusercontent.com/98851253/154783750-d3f360c9-d877-4db9-ab81-37c058c394d3.gif)
 
