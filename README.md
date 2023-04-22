@@ -4,6 +4,9 @@ This repo lists all the projects I have done in 100 days of coding in python cou
 ## Blog Capstone Project Part 4
 ![day69](https://user-images.githubusercontent.com/98851253/164320602-ee6de83b-29c4-4eee-968c-3ea22ceea2c7.gif)
 
+## Web Scraping - 100 Movies That You Must Watch
+![day45](https://user-images.githubusercontent.com/98851253/158044305-f2f0f3ed-83fc-4b5c-bd91-c4e6f1dd7682.gif)
+
 ## Mail Merge
 ![day24(2)](https://user-images.githubusercontent.com/98851253/154885509-09025d64-ef6a-4448-a1a6-18cfc4c055ff.gif)
 
