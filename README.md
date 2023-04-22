@@ -6,11 +6,11 @@ This repo lists all the projects I have done in 100 days of coding in python cou
 
 ## Rock Paper Scissors 
 
-<img src="https://user-images.githubusercontent.com/120945994/233771364-245cb43f-91b9-4c7b-940c-db7a3bc89f15.gif" height = "300px" width = "500px">
+[<img src="https://user-images.githubusercontent.com/120945994/233771364-245cb43f-91b9-4c7b-940c-db7a3bc89f15.gif" height = "300px" width = "500px">]
 
 ## Treasure Island
 
-<img src="https://user-images.githubusercontent.com/120945994/233770926-36b94eca-c91b-42b1-8f7a-5738ce27830c.gif" height = "300px" width = "500px" >
+[<img src="https://user-images.githubusercontent.com/120945994/233770926-36b94eca-c91b-42b1-8f7a-5738ce27830c.gif" height = "300px" width = "500px" >]
 
 
 ## Tip Calculator 
