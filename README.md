@@ -1,6 +1,9 @@
 # Python Projects
 This repo lists all the projects I have done in 100 days of coding in python course by Angela Yu,  along with my extra projects done during the journey. It was an amazing course! Consider it taking. But if you are in a rush or something, you can checkout my notes on Python day 1- day 100 : [Nish Notes](). If handwritten notes isn't for you then, jump into my repo : [Python Bootcamp](https://github.com/NishitaErvantikar9/Python-Pro-Bootcamp) that contains every step you need to know to do these projects. Click on the gifs to reach the project code.
 
+## Blog Capstone Project Part 4
+![day69](https://user-images.githubusercontent.com/98851253/164320602-ee6de83b-29c4-4eee-968c-3ea22ceea2c7.gif)
+
 ## Mail Merge
 ![day24(2)](https://user-images.githubusercontent.com/98851253/154885509-09025d64-ef6a-4448-a1a6-18cfc4c055ff.gif)
 
